@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vostm\\Desktop\\ТХИ лабы\\лб3-\\ClassLibrary\\ClassLibrary.csproj": {}
+    "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\ClassLibrary\\ClassLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vostm\\Desktop\\ТХИ лабы\\лб3-\\ClassLibrary\\ClassLibrary.csproj": {
+    "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\ClassLibrary\\ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vostm\\Desktop\\ТХИ лабы\\лб3-\\ClassLibrary\\ClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\ClassLibrary\\ClassLibrary.csproj",
         "projectName": "ClassLibrary",
-        "projectPath": "C:\\Users\\vostm\\Desktop\\ТХИ лабы\\лб3-\\ClassLibrary\\ClassLibrary.csproj",
+        "projectPath": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\ClassLibrary\\ClassLibrary.csproj",
         "packagesPath": "C:\\Users\\vostm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vostm\\Desktop\\ТХИ лабы\\лб3-\\ClassLibrary\\obj\\",
+        "outputPath": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vostm\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vostm\\Desktop\\\u0422\u0425\u0418 \u043B\u0430\u0431\u044B\\\u043B\u04313-\\ClassLibrary\\",
+  "WorkspaceRootPath": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\ClassLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E811D68F-5BDA-4CE2-BBFF-8E7234C36F4F}|ClassLibrary.csproj|c:\\users\\vostm\\desktop\\\u0442\u0445\u0438 \u043B\u0430\u0431\u044B\\\u043B\u04313-\\classlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E811D68F-5BDA-4CE2-BBFF-8E7234C36F4F}|ClassLibrary.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E811D68F-5BDA-4CE2-BBFF-8E7234C36F4F}|ClassLibrary.csproj|c:\\users\\vostm\\some shit\\githubclones\\study\\mp3player_study\\classlibrary\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E811D68F-5BDA-4CE2-BBFF-8E7234C36F4F}|ClassLibrary.csproj|solutionrelative:song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E811D68F-5BDA-4CE2-BBFF-8E7234C36F4F}|ClassLibrary.csproj|c:\\users\\vostm\\some shit\\githubclones\\study\\mp3player_study\\classlibrary\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E811D68F-5BDA-4CE2-BBFF-8E7234C36F4F}|ClassLibrary.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E811D68F-5BDA-4CE2-BBFF-8E7234C36F4F}|ClassLibrary.csproj|c:\\users\\vostm\\some shit\\githubclones\\study\\mp3player_study\\classlibrary\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E811D68F-5BDA-4CE2-BBFF-8E7234C36F4F}|ClassLibrary.csproj|solutionrelative:playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E811D68F-5BDA-4CE2-BBFF-8E7234C36F4F}|ClassLibrary.csproj|c:\\users\\vostm\\some shit\\githubclones\\study\\mp3player_study\\classlibrary\\songlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E811D68F-5BDA-4CE2-BBFF-8E7234C36F4F}|ClassLibrary.csproj|solutionrelative:songlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +26,66 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\ClassLibrary\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\ClassLibrary\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T03:01:01.427Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\vostm\\Desktop\\\u0422\u0425\u0418 \u043B\u0430\u0431\u044B\\\u043B\u04313-\\ClassLibrary\\Class1.cs",
-              "RelativeDocumentMoniker": "Class1.cs",
-              "ToolTip": "C:\\Users\\vostm\\Desktop\\\u0422\u0425\u0418 \u043B\u0430\u0431\u044B\\\u043B\u04313-\\ClassLibrary\\Class1.cs",
-              "RelativeToolTip": "Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\ClassLibrary\\Song.cs",
+              "RelativeDocumentMoniker": "Song.cs",
+              "ToolTip": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\ClassLibrary\\Song.cs",
+              "RelativeToolTip": "Song.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T02:37:07.074Z",
+              "WhenOpened": "2024-06-07T02:55:57.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SongList.cs",
+              "DocumentMoniker": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\ClassLibrary\\SongList.cs",
+              "RelativeDocumentMoniker": "SongList.cs",
+              "ToolTip": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\ClassLibrary\\SongList.cs",
+              "RelativeToolTip": "SongList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T02:58:24.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayList.cs",
+              "DocumentMoniker": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\ClassLibrary\\PlayList.cs",
+              "RelativeDocumentMoniker": "PlayList.cs",
+              "ToolTip": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\ClassLibrary\\PlayList.cs",
+              "RelativeToolTip": "PlayList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T03:00:01.043Z",
               "EditorCaption": ""
             }
           ]

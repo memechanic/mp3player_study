@@ -9,3 +9,15 @@ C:\Users\vostm\Desktop\ТХИ лабы\лб3-\ClassLibrary\obj\Debug\net6.0\Clas
 C:\Users\vostm\Desktop\ТХИ лабы\лб3-\ClassLibrary\obj\Debug\net6.0\refint\ClassLibrary.dll
 C:\Users\vostm\Desktop\ТХИ лабы\лб3-\ClassLibrary\obj\Debug\net6.0\ClassLibrary.pdb
 C:\Users\vostm\Desktop\ТХИ лабы\лб3-\ClassLibrary\obj\Debug\net6.0\ref\ClassLibrary.dll
+C:\Users\vostm\Some Shit\GitHubClones\Study\mp3player_study\ClassLibrary\bin\Debug\net6.0\ClassLibrary.deps.json
+C:\Users\vostm\Some Shit\GitHubClones\Study\mp3player_study\ClassLibrary\bin\Debug\net6.0\ClassLibrary.dll
+C:\Users\vostm\Some Shit\GitHubClones\Study\mp3player_study\ClassLibrary\bin\Debug\net6.0\ClassLibrary.pdb
+C:\Users\vostm\Some Shit\GitHubClones\Study\mp3player_study\ClassLibrary\obj\Debug\net6.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vostm\Some Shit\GitHubClones\Study\mp3player_study\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\vostm\Some Shit\GitHubClones\Study\mp3player_study\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\vostm\Some Shit\GitHubClones\Study\mp3player_study\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\vostm\Some Shit\GitHubClones\Study\mp3player_study\ClassLibrary\obj\Debug\net6.0\ClassLibrary.sourcelink.json
+C:\Users\vostm\Some Shit\GitHubClones\Study\mp3player_study\ClassLibrary\obj\Debug\net6.0\ClassLibrary.dll
+C:\Users\vostm\Some Shit\GitHubClones\Study\mp3player_study\ClassLibrary\obj\Debug\net6.0\refint\ClassLibrary.dll
+C:\Users\vostm\Some Shit\GitHubClones\Study\mp3player_study\ClassLibrary\obj\Debug\net6.0\ClassLibrary.pdb
+C:\Users\vostm\Some Shit\GitHubClones\Study\mp3player_study\ClassLibrary\obj\Debug\net6.0\ref\ClassLibrary.dll

@@ -10,3 +10,7 @@ C:\Users\vostm\Some Shit\GitHubClones\Study\mp3player_study\Interfaces\obj\Debug
 C:\Users\vostm\Some Shit\GitHubClones\Study\mp3player_study\Interfaces\obj\Debug\net6.0\refint\Interfaces.dll
 C:\Users\vostm\Some Shit\GitHubClones\Study\mp3player_study\Interfaces\obj\Debug\net6.0\Interfaces.pdb
 C:\Users\vostm\Some Shit\GitHubClones\Study\mp3player_study\Interfaces\obj\Debug\net6.0\ref\Interfaces.dll
+C:\Users\vostm\Some Shit\GitHubClones\Study\mp3player_study\Interfaces\bin\Debug\net6.0\ClassLibrary.dll
+C:\Users\vostm\Some Shit\GitHubClones\Study\mp3player_study\Interfaces\bin\Debug\net6.0\ClassLibrary.pdb
+C:\Users\vostm\Some Shit\GitHubClones\Study\mp3player_study\Interfaces\obj\Debug\net6.0\Interfaces.csproj.AssemblyReference.cache
+C:\Users\vostm\Some Shit\GitHubClones\Study\mp3player_study\Interfaces\obj\Debug\net6.0\Interfaces.csproj.Up2Date

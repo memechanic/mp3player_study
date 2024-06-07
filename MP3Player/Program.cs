@@ -24,18 +24,20 @@ namespace MP3Player
 
             Console.WriteLine();
 
-            Playlist playlist = PlaylistFactory.CreatePlaylist("AC/DC songs");
+            PlaylistsGroup playlistsGroup = new PlaylistsGroup();
+
+            Playlist playlist = PlaylistFactory.CreatePlaylist("AC/DC songs", ref playlistsGroup);
             playlist.Add(song);
             playlist.Add(song2);
 
-            PlaylistPrinter.Info(playlist);
+            PlaylistPrinter.Print(playlist);
             PlaylistPrinter.Songs(playlist);
 
             Console.WriteLine();
 
             playlist.Remove(song);
 
-            PlaylistPrinter.Info(playlist);
+            PlaylistPrinter.Print(playlist);
             PlaylistPrinter.Songs(playlist);
 
             Console.WriteLine();

@@ -5,7 +5,7 @@ namespace Logic
     public class PlaylistFactory
     {
         const string DefaultPath = "..\\..\\..\\cover.txt";
-        public static Playlist CreatePlaylist(string name, string filePath = DefaultPath)
+        public static Playlist CreatePlaylist(string name, ref PlaylistsGroup plg ,string filePath = DefaultPath)
         {
             string cover = FileManager.UploadFile(filePath);
 
@@ -14,6 +14,8 @@ namespace Logic
             playlist.Name = name;
             playlist.Cover = cover;
             playlist.Id = new Random().Next(int.MaxValue);
+
+            plg.AddPlaylist(playlist);
 
             return playlist;
         }

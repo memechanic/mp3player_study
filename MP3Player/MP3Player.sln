@@ -14,6 +14,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logic", "..\Logic\Logic.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "..\Interfaces\Interfaces.csproj", "{16C2257A-30AB-484F-98FF-D584DA3829DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MP3Player_WinForm", "..\MP3Player_WinForm\MP3Player_WinForm.csproj", "{8BFD344B-2AFF-473F-9D32-8C7357BDF356}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,6 +38,10 @@ Global
 		{16C2257A-30AB-484F-98FF-D584DA3829DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16C2257A-30AB-484F-98FF-D584DA3829DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16C2257A-30AB-484F-98FF-D584DA3829DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BFD344B-2AFF-473F-9D32-8C7357BDF356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BFD344B-2AFF-473F-9D32-8C7357BDF356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BFD344B-2AFF-473F-9D32-8C7357BDF356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BFD344B-2AFF-473F-9D32-8C7357BDF356}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\MP3Player\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D07681B-F93A-4E40-905E-0B9FC3AF73D5}|MP3Player.csproj|c:\\users\\vostm\\some shit\\githubclones\\study\\mp3player_study\\mp3player\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D07681B-F93A-4E40-905E-0B9FC3AF73D5}|MP3Player.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BFD344B-2AFF-473F-9D32-8C7357BDF356}|..\\MP3Player_WinForm\\MP3Player_WinForm.csproj|c:\\users\\vostm\\some shit\\githubclones\\study\\mp3player_study\\mp3player_winform\\editplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54233977-0E35-4DE9-A3CF-1F7054B17968}|..\\Logic\\Logic.csproj|c:\\users\\vostm\\some shit\\githubclones\\study\\mp3player_study\\logic\\playlistfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BFD344B-2AFF-473F-9D32-8C7357BDF356}|..\\MP3Player_WinForm\\MP3Player_WinForm.csproj|c:\\users\\vostm\\some shit\\githubclones\\study\\mp3player_study\\mp3player_winform\\addplaylistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFD344B-2AFF-473F-9D32-8C7357BDF356}|..\\MP3Player_WinForm\\MP3Player_WinForm.csproj|c:\\users\\vostm\\some shit\\githubclones\\study\\mp3player_study\\mp3player_winform\\addsongtoplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFD344B-2AFF-473F-9D32-8C7357BDF356}|..\\MP3Player_WinForm\\MP3Player_WinForm.csproj|c:\\users\\vostm\\some shit\\githubclones\\study\\mp3player_study\\mp3player_winform\\playermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFD344B-2AFF-473F-9D32-8C7357BDF356}|..\\MP3Player_WinForm\\MP3Player_WinForm.csproj|c:\\users\\vostm\\some shit\\githubclones\\study\\mp3player_study\\mp3player_winform\\addplaylistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,33 +25,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\MP3Player\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\MP3Player\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBAAAAA5AAAA",
+              "DocumentIndex": 3,
+              "Title": "PlayerMainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\MP3Player_WinForm\\PlayerMainForm.cs",
+              "RelativeDocumentMoniker": "..\\MP3Player_WinForm\\PlayerMainForm.cs",
+              "ToolTip": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\MP3Player_WinForm\\PlayerMainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\MP3Player_WinForm\\PlayerMainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T02:25:55.543Z",
+              "WhenOpened": "2024-06-07T16:53:14.557Z",
               "IsPinned": true,
-              "EditorCaption": ""
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditPlaylist.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\MP3Player_WinForm\\EditPlaylist.cs",
+              "RelativeDocumentMoniker": "..\\MP3Player_WinForm\\EditPlaylist.cs",
+              "ToolTip": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\MP3Player_WinForm\\EditPlaylist.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\MP3Player_WinForm\\EditPlaylist.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T18:47:20.109Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddSongToPlaylist.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\MP3Player_WinForm\\AddSongToPlaylist.cs",
+              "RelativeDocumentMoniker": "..\\MP3Player_WinForm\\AddSongToPlaylist.cs",
+              "ToolTip": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\MP3Player_WinForm\\AddSongToPlaylist.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\MP3Player_WinForm\\AddSongToPlaylist.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T18:46:49.751Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
@@ -52,14 +75,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PlaylistFactory.cs",
-              "DocumentMoniker": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\Logic\\PlaylistFactory.cs",
-              "RelativeDocumentMoniker": "..\\Logic\\PlaylistFactory.cs",
-              "ToolTip": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\Logic\\PlaylistFactory.cs",
-              "RelativeToolTip": "..\\Logic\\PlaylistFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Title": "AddPlaylistForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\MP3Player_WinForm\\AddPlaylistForm.cs",
+              "RelativeDocumentMoniker": "..\\MP3Player_WinForm\\AddPlaylistForm.cs",
+              "ToolTip": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\MP3Player_WinForm\\AddPlaylistForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\MP3Player_WinForm\\AddPlaylistForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T11:03:14.865Z",
+              "WhenOpened": "2024-06-07T17:14:02.893Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddPlaylistForm.cs",
+              "DocumentMoniker": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\MP3Player_WinForm\\AddPlaylistForm.cs",
+              "RelativeDocumentMoniker": "..\\MP3Player_WinForm\\AddPlaylistForm.cs",
+              "ToolTip": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\MP3Player_WinForm\\AddPlaylistForm.cs",
+              "RelativeToolTip": "..\\MP3Player_WinForm\\AddPlaylistForm.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAswFEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:14:07.285Z",
               "EditorCaption": ""
             }
           ]

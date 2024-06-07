@@ -27,9 +27,9 @@
         public int Duration
         {
             get {
+                _duration = 0;
                 if (Songs.Count != 0)
                 {
-                    _duration = 0;
                     foreach (var item in Songs) { _duration += item.Duration; }
                     return _duration;
                 }

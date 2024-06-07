@@ -12,9 +12,9 @@ namespace MP3Player
             SongList mainList = new SongList();
             
 
-            Song song = SongFactory.UploadSong("C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\MP3Player\\SONGS\\song.txt", ref mainList);
-            Song song2 = SongFactory.UploadSong("C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\MP3Player\\SONGS\\song2.txt", ref mainList);
-            Song song3 = SongFactory.UploadSong("C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\MP3Player\\SONGS\\song3.txt", ref mainList);
+            Song song = SongFactory.UploadSong("..\\..\\..\\SONGS\\song.txt", ref mainList);
+            Song song2 = SongFactory.UploadSong("..\\..\\..\\SONGS\\song2.txt", ref mainList);
+            Song song3 = SongFactory.UploadSong("..\\..\\..\\SONGS\\song3.txt", ref mainList);
             SongPrinter.Print(song);
 
             Console.WriteLine();

@@ -4,7 +4,7 @@ namespace Logic
 {   
     public class PlaylistFactory
     {
-        const string DefaultPath = "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\MP3Player\\cover.txt";
+        const string DefaultPath = "..\\..\\..\\cover.txt";
         public static Playlist CreatePlaylist(string name, string filePath = DefaultPath)
         {
             string cover = FileManager.UploadFile(filePath);

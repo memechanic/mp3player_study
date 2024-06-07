@@ -2,7 +2,7 @@
 {
     public class FileLogger : ILogger
     {
-        const string LogPath = "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\MP3Player\\logs\\";
+        const string LogPath = "..\\..\\..\\logs\\";
         public void Log(string message)
         {
             

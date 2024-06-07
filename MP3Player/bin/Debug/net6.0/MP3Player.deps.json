@@ -8,15 +8,30 @@
     ".NETCoreApp,Version=v6.0": {
       "MP3Player/1.0.0": {
         "dependencies": {
-          "ClassLibrary": "1.0.0.0"
+          "ClassLibrary": "1.0.0",
+          "Logic": "1.0.0",
+          "Interfaces": "1.0.0.0"
         },
         "runtime": {
           "MP3Player.dll": {}
         }
       },
-      "ClassLibrary/1.0.0.0": {
+      "ClassLibrary/1.0.0": {
         "runtime": {
-          "ClassLibrary.dll": {
+          "ClassLibrary.dll": {}
+        }
+      },
+      "Logic/1.0.0": {
+        "dependencies": {
+          "ClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Logic.dll": {}
+        }
+      },
+      "Interfaces/1.0.0.0": {
+        "runtime": {
+          "Interfaces.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -30,7 +45,17 @@
       "serviceable": false,
       "sha512": ""
     },
-    "ClassLibrary/1.0.0.0": {
+    "ClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interfaces/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

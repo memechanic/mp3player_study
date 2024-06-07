@@ -1,13 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vostm\\Desktop\\\u0422\u0425\u0418 \u043B\u0430\u0431\u044B\\\u043B\u04313-\\MP3Player\\",
+  "WorkspaceRootPath": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\MP3Player\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5B19DED-6C83-403C-8131-FFC71048FE1A}|..\\ClassLibrary\\ClassLibrary.csproj|c:\\users\\vostm\\desktop\\\u0442\u0445\u0438 \u043B\u0430\u0431\u044B\\\u043B\u04313-\\classlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D07681B-F93A-4E40-905E-0B9FC3AF73D5}|MP3Player.csproj|c:\\users\\vostm\\some shit\\githubclones\\study\\mp3player_study\\mp3player\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D07681B-F93A-4E40-905E-0B9FC3AF73D5}|MP3Player.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D07681B-F93A-4E40-905E-0B9FC3AF73D5}|MP3Player.csproj|c:\\users\\vostm\\desktop\\\u0442\u0445\u0438 \u043B\u0430\u0431\u044B\\\u043B\u04313-\\mp3player\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D07681B-F93A-4E40-905E-0B9FC3AF73D5}|MP3Player.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5B19DED-6C83-403C-8131-FFC71048FE1A}|..\\ClassLibrary\\ClassLibrary.csproj|c:\\users\\vostm\\some shit\\githubclones\\study\\mp3player_study\\classlibrary\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C2257A-30AB-484F-98FF-D584DA3829DA}|..\\Interfaces\\Interfaces.csproj|c:\\users\\vostm\\some shit\\githubclones\\study\\mp3player_study\\interfaces\\loggerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B19DED-6C83-403C-8131-FFC71048FE1A}|..\\ClassLibrary\\ClassLibrary.csproj|c:\\users\\vostm\\some shit\\githubclones\\study\\mp3player_study\\classlibrary\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54233977-0E35-4DE9-A3CF-1F7054B17968}|..\\Logic\\Logic.csproj|c:\\users\\vostm\\some shit\\githubclones\\study\\mp3player_study\\logic\\songfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54233977-0E35-4DE9-A3CF-1F7054B17968}|..\\Logic\\Logic.csproj|c:\\users\\vostm\\some shit\\githubclones\\study\\mp3player_study\\logic\\playlistfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54233977-0E35-4DE9-A3CF-1F7054B17968}|..\\Logic\\Logic.csproj|c:\\users\\vostm\\some shit\\githubclones\\study\\mp3player_study\\logic\\songprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54233977-0E35-4DE9-A3CF-1F7054B17968}|..\\Logic\\Logic.csproj|c:\\users\\vostm\\some shit\\githubclones\\study\\mp3player_study\\logic\\playlistprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54233977-0E35-4DE9-A3CF-1F7054B17968}|..\\Logic\\Logic.csproj|c:\\users\\vostm\\some shit\\githubclones\\study\\mp3player_study\\logic\\songlistprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B19DED-6C83-403C-8131-FFC71048FE1A}|..\\ClassLibrary\\ClassLibrary.csproj|c:\\users\\vostm\\some shit\\githubclones\\study\\mp3player_study\\classlibrary\\songlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,28 +46,140 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\vostm\\Desktop\\\u0422\u0425\u0418 \u043B\u0430\u0431\u044B\\\u043B\u04313-\\ClassLibrary\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\ClassLibrary\\Class1.cs",
-              "ToolTip": "C:\\Users\\vostm\\Desktop\\\u0422\u0425\u0418 \u043B\u0430\u0431\u044B\\\u043B\u04313-\\ClassLibrary\\Class1.cs",
-              "RelativeToolTip": "..\\ClassLibrary\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAAARAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\MP3Player\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\MP3Player\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAqwCgAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T02:46:40.626Z",
+              "WhenOpened": "2024-06-07T02:25:55.543Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoggerFactory.cs",
+              "DocumentMoniker": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\Interfaces\\LoggerFactory.cs",
+              "RelativeDocumentMoniker": "..\\Interfaces\\LoggerFactory.cs",
+              "ToolTip": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\Interfaces\\LoggerFactory.cs",
+              "RelativeToolTip": "..\\Interfaces\\LoggerFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T07:17:07.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\ClassLibrary\\Song.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\Song.cs",
+              "ToolTip": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\ClassLibrary\\Song.cs",
+              "RelativeToolTip": "..\\ClassLibrary\\Song.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T07:11:50.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SongFactory.cs",
+              "DocumentMoniker": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\Logic\\SongFactory.cs",
+              "RelativeDocumentMoniker": "..\\Logic\\SongFactory.cs",
+              "ToolTip": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\Logic\\SongFactory.cs",
+              "RelativeToolTip": "..\\Logic\\SongFactory.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:49:45.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SongPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\Logic\\SongPrinter.cs",
+              "RelativeDocumentMoniker": "..\\Logic\\SongPrinter.cs",
+              "ToolTip": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\Logic\\SongPrinter.cs",
+              "RelativeToolTip": "..\\Logic\\SongPrinter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:41:17.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlaylistFactory.cs",
+              "DocumentMoniker": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\Logic\\PlaylistFactory.cs",
+              "RelativeDocumentMoniker": "..\\Logic\\PlaylistFactory.cs",
+              "ToolTip": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\Logic\\PlaylistFactory.cs",
+              "RelativeToolTip": "..\\Logic\\PlaylistFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:26:52.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SongList.cs",
+              "DocumentMoniker": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\ClassLibrary\\SongList.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\SongList.cs",
+              "ToolTip": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\ClassLibrary\\SongList.cs",
+              "RelativeToolTip": "..\\ClassLibrary\\SongList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:12:33.453Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vostm\\Desktop\\\u0422\u0425\u0418 \u043B\u0430\u0431\u044B\\\u043B\u04313-\\MP3Player\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\vostm\\Desktop\\\u0422\u0425\u0418 \u043B\u0430\u0431\u044B\\\u043B\u04313-\\MP3Player\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Title": "PlayList.cs",
+              "DocumentMoniker": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\ClassLibrary\\PlayList.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\PlayList.cs",
+              "ToolTip": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\ClassLibrary\\PlayList.cs",
+              "RelativeToolTip": "..\\ClassLibrary\\PlayList.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wB8AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T02:25:55.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T06:23:35.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SongListPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\Logic\\SongListPrinter.cs",
+              "RelativeDocumentMoniker": "..\\Logic\\SongListPrinter.cs",
+              "ToolTip": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\Logic\\SongListPrinter.cs",
+              "RelativeToolTip": "..\\Logic\\SongListPrinter.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:17:46.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlaylistPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\Logic\\PlaylistPrinter.cs",
+              "RelativeDocumentMoniker": "..\\Logic\\PlaylistPrinter.cs",
+              "ToolTip": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\Logic\\PlaylistPrinter.cs",
+              "RelativeToolTip": "..\\Logic\\PlaylistPrinter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:18:06.491Z"
             }
           ]
         }

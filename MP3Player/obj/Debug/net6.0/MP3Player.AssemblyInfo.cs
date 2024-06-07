@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MP3Player")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea1d8f95d5e0337f2699d36713be312b7cae3b48")]
 [assembly: System.Reflection.AssemblyProductAttribute("MP3Player")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MP3Player")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,12 @@
+C:\Users\vostm\Some Shit\GitHubClones\Study\mp3player_study\Interfaces\bin\Debug\net6.0\Interfaces.deps.json
+C:\Users\vostm\Some Shit\GitHubClones\Study\mp3player_study\Interfaces\bin\Debug\net6.0\Interfaces.dll
+C:\Users\vostm\Some Shit\GitHubClones\Study\mp3player_study\Interfaces\bin\Debug\net6.0\Interfaces.pdb
+C:\Users\vostm\Some Shit\GitHubClones\Study\mp3player_study\Interfaces\obj\Debug\net6.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vostm\Some Shit\GitHubClones\Study\mp3player_study\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\vostm\Some Shit\GitHubClones\Study\mp3player_study\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfo.cs
+C:\Users\vostm\Some Shit\GitHubClones\Study\mp3player_study\Interfaces\obj\Debug\net6.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\vostm\Some Shit\GitHubClones\Study\mp3player_study\Interfaces\obj\Debug\net6.0\Interfaces.sourcelink.json
+C:\Users\vostm\Some Shit\GitHubClones\Study\mp3player_study\Interfaces\obj\Debug\net6.0\Interfaces.dll
+C:\Users\vostm\Some Shit\GitHubClones\Study\mp3player_study\Interfaces\obj\Debug\net6.0\refint\Interfaces.dll
+C:\Users\vostm\Some Shit\GitHubClones\Study\mp3player_study\Interfaces\obj\Debug\net6.0\Interfaces.pdb
+C:\Users\vostm\Some Shit\GitHubClones\Study\mp3player_study\Interfaces\obj\Debug\net6.0\ref\Interfaces.dll

@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "ClassLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary.dll": {}
+        }
+      },
+      "Logic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ClassLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Logic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Logic.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ClassLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary/ClassLibrary.csproj",
+      "msbuildProject": "../ClassLibrary/ClassLibrary.csproj"
+    },
+    "Logic/1.0.0": {
+      "type": "project",
+      "path": "../Logic/Logic.csproj",
+      "msbuildProject": "../Logic/Logic.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "ClassLibrary >= 1.0.0",
+      "Logic >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\vostm\\.nuget\\packages\\": {}
@@ -13,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vostm\\Desktop\\ТХИ лабы\\лб3-\\MP3Player\\MP3Player.csproj",
+      "projectUniqueName": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\MP3Player\\MP3Player.csproj",
       "projectName": "MP3Player",
-      "projectPath": "C:\\Users\\vostm\\Desktop\\ТХИ лабы\\лб3-\\MP3Player\\MP3Player.csproj",
+      "projectPath": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\MP3Player\\MP3Player.csproj",
       "packagesPath": "C:\\Users\\vostm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vostm\\Desktop\\ТХИ лабы\\лб3-\\MP3Player\\obj\\",
+      "outputPath": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\MP3Player\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vostm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +71,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\ClassLibrary\\ClassLibrary.csproj": {
+              "projectPath": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\ClassLibrary\\ClassLibrary.csproj"
+            },
+            "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\Logic\\Logic.csproj": {
+              "projectPath": "C:\\Users\\vostm\\Some Shit\\GitHubClones\\Study\\mp3player_study\\Logic\\Logic.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

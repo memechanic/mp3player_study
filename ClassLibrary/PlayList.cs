@@ -2,9 +2,16 @@
 {
     public class Playlist : SongList
     {
+        int _id;
         string _name;
         string _cover;
-        int _duration;
+        int _duration = 0;
+
+        public int Id
+        {
+            set { _id = value; }
+            get { return _id; } 
+        }
 
         public string Name
         {
@@ -19,7 +26,15 @@
         }
         public int Duration
         {
-            get { return _duration; }
+            get {
+                if (Songs.Count != 0)
+                {
+                    _duration = 0;
+                    foreach (var item in Songs) { _duration += item.Duration; }
+                    return _duration;
+                }
+                else { return _duration; }
+            }
             set { _duration = value; }
         }
     }

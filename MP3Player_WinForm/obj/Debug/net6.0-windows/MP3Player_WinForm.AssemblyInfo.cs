@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MP3Player_WinForm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19de022c77c8df57e335ae389dd1aa7344abc91c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58178da8adef4bd26aae967e2f87c99d65f7fdca")]
 [assembly: System.Reflection.AssemblyProductAttribute("MP3Player_WinForm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MP3Player_WinForm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

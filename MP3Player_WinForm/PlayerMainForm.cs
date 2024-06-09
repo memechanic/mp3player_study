@@ -18,15 +18,24 @@ namespace MP3Player_WinForm
             InitializeComponent();
 
         }
-
-        private void playerMainForm_Load(object sender, EventArgs e)
+        public void UpdatePlaylistInfo(Playlist playlist)
+        {
+            playlistNameLabel.Text = playlist.Name;
+            playlistDurationLabel.Text = PlaylistPrinter.GetDuration(playlist);
+            playlistCountLabel.Text = playlist.Count.ToString();
+            playlistCoverLabel.Text = playlist.Cover;
+        }
+        public void UpdatePlaylistInfo()
         {
             playlistNameLabel.Text = "";
             playlistDurationLabel.Text = "";
             playlistCountLabel.Text = "";
             playlistCoverLabel.Text = "";
+        }
 
-
+        private void playerMainForm_Load(object sender, EventArgs e)
+        {
+            UpdatePlaylistInfo();
             _songList = new SongList { };
             _playlistsGroup = new PlaylistsGroup { };
         }
@@ -73,10 +82,7 @@ namespace MP3Player_WinForm
 
             Playlist playlist = _playlistsGroup.List[index];
 
-            playlistNameLabel.Text = playlist.Name;
-            playlistDurationLabel.Text = PlaylistPrinter.GetDuration(playlist);
-            playlistCountLabel.Text = playlist.Count.ToString();
-            playlistCoverLabel.Text = playlist.Cover;
+            UpdatePlaylistInfo(playlist);
         }
 
         private void plalyistsListBox_SelectedIndexChanged(object sender, EventArgs e)
@@ -92,10 +98,7 @@ namespace MP3Player_WinForm
                 {
                     playlistSongsListBox.Items.Add(SongPrinter.GetInfo(song));
                 }
-                playlistNameLabel.Text = playlist.Name;
-                playlistDurationLabel.Text = PlaylistPrinter.GetDuration(playlist);
-                playlistCountLabel.Text = playlist.Count.ToString();
-                playlistCoverLabel.Text = playlist.Cover;
+                UpdatePlaylistInfo(playlist);
             }
         }
 
@@ -112,10 +115,7 @@ namespace MP3Player_WinForm
         private void playlistDeletebutton_Click(object sender, EventArgs e)
         {
             playlistSongsListBox.Items.Clear();
-            playlistNameLabel.Text = "";
-            playlistDurationLabel.Text = "";
-            playlistCountLabel.Text = "";
-            playlistCoverLabel.Text = "";
+            UpdatePlaylistInfo();
 
             int playlistIndex = playlistsListBox.SelectedIndex;
             if (playlistIndex != -1)
